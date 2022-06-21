@@ -1,0 +1,5 @@
+package com.amanrauniyar.capstone.springboot.model;
+
+public class Friend {
+
+}
